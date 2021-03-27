@@ -1,0 +1,9 @@
+{
+	"name": "enemdatafactory",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9668b49d-6a77-475e-b6ca-f877f6d6f2cc",
+		"tenantId": "be935724-03a6-4c14-8ea9-bdaa0ec5bb5e"
+	}
+}
